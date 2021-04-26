@@ -18,7 +18,7 @@
 9. This will produce an error since i is out of scope when it is logged. 
 10. "3" will be printed.
 11. The function will return [50,100,150], since it does exactly the same calculations as in question 4. Though discounted is a const, the array is still able to be pushed to. 
-12.  
+12. <br>
   A: student.name  
   B: student['Grad Year']  
   C: student.greeting()  
